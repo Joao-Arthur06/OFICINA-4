@@ -1,0 +1,34 @@
+body {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: rgb(125, 161, 161);
+}
+
+.MEUBLOG {
+    color:rgb(255, 255, 255)
+}
+
+.CONTAINER1 {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 15px;
+    margin: 5px;
+	background: rgb(175, 129, 250);
+}
+
+.CONTAINER2 { 
+    display: flex; 
+    justify-content: center;
+    align-items: center; 
+    height: 100%
+}
+
+.BUTTON{
+    display: flex;
+    flex-direction: row;
+    padding: 10px 15px;
+}
+
+.PESQUISAR-BUTTON{
+    color: rgb(0, 0, 0);
+    background-color: #9298aa; 
+}
